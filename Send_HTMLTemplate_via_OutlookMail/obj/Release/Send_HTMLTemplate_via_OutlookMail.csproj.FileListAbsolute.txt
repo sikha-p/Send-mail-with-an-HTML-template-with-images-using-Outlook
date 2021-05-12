@@ -1,0 +1,6 @@
+C:\Users\Sikha.P\source\repos\Send_HTMLTemplate_via_OutlookMail\Send_HTMLTemplate_via_OutlookMail\bin\Release\Send_HTMLTemplate_via_OutlookMail.dll
+C:\Users\Sikha.P\source\repos\Send_HTMLTemplate_via_OutlookMail\Send_HTMLTemplate_via_OutlookMail\bin\Release\Send_HTMLTemplate_via_OutlookMail.pdb
+C:\Users\Sikha.P\source\repos\Send_HTMLTemplate_via_OutlookMail\Send_HTMLTemplate_via_OutlookMail\obj\Release\Send_HTMLTemplate_via_OutlookMail.csprojAssemblyReference.cache
+C:\Users\Sikha.P\source\repos\Send_HTMLTemplate_via_OutlookMail\Send_HTMLTemplate_via_OutlookMail\obj\Release\Send_HTMLTemplate_via_OutlookMail.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\Send_HTMLTemplate_via_OutlookMail\Send_HTMLTemplate_via_OutlookMail\obj\Release\Send_HTMLTemplate_via_OutlookMail.dll
+C:\Users\Sikha.P\source\repos\Send_HTMLTemplate_via_OutlookMail\Send_HTMLTemplate_via_OutlookMail\obj\Release\Send_HTMLTemplate_via_OutlookMail.pdb
